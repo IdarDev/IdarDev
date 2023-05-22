@@ -1,6 +1,8 @@
 ## <p align="center">Hey, I'm Idar 👋<p>
 
  #### <p align="center">Full stack Developer from Norway with a passion for the JavaScript ecosystem. <p>
+  
+  🚀 Check out my latest project at https://youcoder.io
    
 ### Stack
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">  <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"> 
